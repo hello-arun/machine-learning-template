@@ -1,4 +1,4 @@
-# machine-learning-template
+# ML-template
 a boiler plate setup for any machine learning project.
 
 ## Building the conda environment
